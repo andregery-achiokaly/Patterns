@@ -5,6 +5,7 @@ package com.yokoro.structural.facade;
  * <p><b>Проблема:</b><p>есть большая сложная система, которой трудно управлять.
  * <p><b>Решение:</b><p>сделать фасад для нее и через фасад управлять системой.
  * <p><b>Пример:</b><p>new Facade().doSomethingLowLevel();
+ * <p><b>Примичание:</b><p> doSomethingLowLevel() вызывает внутри себя несколько методов
  */
 public class FacadeMain {
 

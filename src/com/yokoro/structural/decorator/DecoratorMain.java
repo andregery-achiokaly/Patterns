@@ -2,7 +2,7 @@ package com.yokoro.structural.decorator;
 
 /**
  * <b>Decorator:</b>
- * <img width="640" height="305" src="../../images/Decorator.jpg" alt="">
+ * <img  src="../../images/Decorator.jpg" alt="">
  * <p><b>Проблема:</b> Есть класс ConcreteComponent который делает doSomething,
  * которому нужно добавить новый функционал.Возможно не один.
  * Возможно в разных местах потребуется разный функционал.
